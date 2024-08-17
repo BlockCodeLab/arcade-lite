@@ -59,8 +59,10 @@
 ### 原理图和PCB
 
 ![](./images/schematic1.jpg)
-![](./images/schematic1.jpg)
+![](./images/schematic2.jpg)
 ![](./images/pcb.jpg)
+
+!> 完整项目请访问[立创开源硬件平台](https://oshwhub.com/blockcodelab/arcade_lite)。
 
 ## 项目外链
 
