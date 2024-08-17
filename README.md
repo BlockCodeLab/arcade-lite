@@ -35,7 +35,7 @@
 
 在 [BlockCode Playgrounds](https://make.blockcode.fun/) 使用图形化（Scratch）或 MicroPython 进行编程。
 
-![](./images/playgrounds "MicroPython（左） 和 图形化（右）")
+![](./images/playgrounds.png "MicroPython（左） 和 图形化（右）")
 
 ### 图形化（Scratch）
 
@@ -62,7 +62,7 @@
 ![](./images/schematic2.jpg)
 ![](./images/pcb.jpg)
 
-!> 完整项目请访问[立创开源硬件平台](https://oshwhub.com/blockcodelab/arcade_lite)。
+> 完整项目请访问[立创开源硬件平台](https://oshwhub.com/blockcodelab/arcade_lite)。
 
 ## 项目外链
 
