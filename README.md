@@ -1,4 +1,4 @@
-![3D_PCB2_2024-08-08 (1).png](//image.lceda.cn/oshwhub/af954c74ac264c17860a0f7385f54bf9.png)
+![](./images/title.png)
 
 这是一款少儿编程硬件产品，非常符合国内目前的小学阶段编程教育（Scratch图形化和Python编程），以往的编程学习在教学过程中逐渐变得模式单一，程序模版化，学生兴趣下滑。这款产品将完全弥补这些不足，提升教学内容的丰富性，程序的多样性和变化性，学生的成就感获得完全提升，并且**完全不改变现在已有的教学内容，完全拿来即用。**
 
@@ -29,17 +29,17 @@
 
 ### 实物照片
 
-![正面.jpg](//image.lceda.cn/oshwhub/7161c07033c94ed693f03a788e1a1c87.jpg)![背面.jpg](//image.lceda.cn/oshwhub/0647b588917b409aac364e8ffc84ed07.jpg)
+![](./images/front.jpg)![](./images/back.jpg)
 
 ## 编写程序
 
 在 [BlockCode Playgrounds](https://make.blockcode.fun/) 使用图形化（Scratch）或 MicroPython 进行编程。
 
-![icon.png](//image.lceda.cn/oshwhub/e766150d96784c7abddf8a71bff8c063.png "MicroPython（左） 和 图形化（右）")
+![](./images/playgrounds "MicroPython（左） 和 图形化（右）")
 
 ### 图形化（Scratch）
 
-![scratch.png](//image.lceda.cn/oshwhub/259505ab1de64297ace9efbf7e164e9b.png "图形化")
+![](./images/scratch.png "图形化")
 
 界面与Scratch完全一样，大部分的编程积木模块也都一样，少部分因为硬件特征有所不同（以后缺少的部分会逐步补全，更贴近原版 Scratch 的积木模块和功能），更方便熟悉Scratch的老师进行教学。
 
@@ -55,6 +55,12 @@
 固件基于 MicroPython 1.2x 版本编译，增加了特有的包，更方便开发游戏和小程序。
 
 > MicroPython 编程平台敬请期待，也推荐使用 [Arduino Lab for MicroPython](https://labs.arduino.cc/en/labs/micropython) 一个轻量化的MicroPython编辑器进行编程。
+
+### 原理图和PCB
+
+![](./images/schematic1.jpg)
+![](./images/schematic1.jpg)
+![](./images/pcb.jpg)
 
 ## 项目外链
 
@@ -74,4 +80,4 @@ ______________________________________________________________________
 
 **欢迎大家加群来交流。**
 
-![IMG_1370.JPG](//image.lceda.cn/oshwhub/e763759a0eb145c795decff9d4217cbc.jpg)
+![](./images/qrcode.jpg)
