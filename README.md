@@ -67,6 +67,7 @@
 ## 项目外链
 
 - 立创开源硬件平台: [https://oshwhub.com/blockcodelab/arcade_lite](https://oshwhub.com/blockcodelab/arcade_lite)
+- GitHub: [https://github.com/BlockCodeLab/arcade-lite](https://github.com/BlockCodeLab/arcade-lite)
 - Gitee: [https://gitee.com/blockcodelab/arcade_lite](https://gitee.com/blockcodelab/arcade_lite)
 
 ### 固件下载
