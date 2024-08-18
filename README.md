@@ -56,7 +56,7 @@
 
 > MicroPython 编程平台敬请期待，也推荐使用 [Arduino Lab for MicroPython](https://labs.arduino.cc/en/labs/micropython) 一个轻量化的MicroPython编辑器进行编程。
 
-### 原理图和PCB
+## 原理图和PCB
 
 ![](./images/schematic1.jpg)
 ![](./images/schematic2.jpg)
@@ -64,16 +64,18 @@
 
 > 完整项目请访问[立创开源硬件平台](https://oshwhub.com/blockcodelab/arcade_lite)。
 
-## 项目外链
+## 项目连接
 
 - 立创开源硬件平台: [https://oshwhub.com/blockcodelab/arcade_lite](https://oshwhub.com/blockcodelab/arcade_lite)
 - GitHub: [https://github.com/BlockCodeLab/arcade-lite](https://github.com/BlockCodeLab/arcade-lite)
-- Gitee: [https://gitee.com/blockcodelab/arcade_lite](https://gitee.com/blockcodelab/arcade_lite)
+- Gitee: [https://gitee.com/blockcodelab/arcade-lite](https://gitee.com/blockcodelab/arcade-lite)
 
 ### 固件下载
 
 - 最新固件: 稍等片刻
 - NES模拟器固件: 稍等片刻
+
+> [NES模拟器固件](https://github.com/kankungyip/arcade-nes)基于[espressif/esp32-nesemu](https://github.com/espressif/esp32-nesemu)开发。
 
 ## 感谢
 
