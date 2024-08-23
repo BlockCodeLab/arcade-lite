@@ -72,10 +72,11 @@
 
 ### 固件下载
 
-- 最新固件: 稍等片刻
-- NES模拟器固件: 稍等片刻
-
-> [NES模拟器固件](https://github.com/kankungyip/arcade-nes)基于[espressif/esp32-nesemu](https://github.com/espressif/esp32-nesemu)开发。
+- 最新固件: [去下载](./firmware)最新版本，将硬件连接电脑，在终端用下面命令刷固件：
+  ```
+  esptool.py --chip auto --port <PORT> write_flash -z 0 arcade_lite.v0.9_mpy_v1.23.0.bin
+  ```
+- NES模拟器: 稍等片刻
 
 ## 感谢
 
